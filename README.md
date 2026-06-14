@@ -1,2 +1,1 @@
-# Malaria_Detection
-MALARIA_DECTECTION MODEL
+The Malaria Detection Model demonstrates the application of Artificial Intelligence in healthcare. By analyzing microscopic blood cell images, the system can efficiently detect malaria infection with high accuracy, supporting faster diagnosis and better patient care.
